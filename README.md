@@ -11,7 +11,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## 🙋 About Me
 
 ```python
 class Developer:
@@ -164,6 +164,15 @@ A dental clinic website with a landing page and contact system — when a user s
 
 ![Dental Clinic Website Demo](https://github.com/merinjo90/Django-Tutorials/blob/master/5_Dentist_Website/dental_website.gif)
 </details>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Merin's GitHub stats](https://github-readme-stats.vercel.app/api?username=merinjo90&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merinjo90&layout=compact)
+
+</div>
 
 ## 📫 Let's Connect
 
