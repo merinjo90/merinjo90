@@ -196,21 +196,14 @@ A collection of mini-projects from learning Django fundamentals — models, view
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=merinjo90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merinjo90&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=merinjo90&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merinjo90&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages"/>
 </p>
 
 ---
 
 ## 🤝 Let's Connect
+
 
 <p align="center">
   I'm actively looking for <b>Werkstudent, internship, and thesis</b> opportunities in Germany —<br/>
